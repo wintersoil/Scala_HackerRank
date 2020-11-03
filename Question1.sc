@@ -5,3 +5,4 @@ object Solution {
     println(scala.io.StdIn.readInt() + scala.io.StdIn.readInt())
   }
 }
+// By Ali

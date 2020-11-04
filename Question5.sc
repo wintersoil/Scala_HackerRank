@@ -11,3 +11,5 @@ def f(arr:List[Int]):List[Int] = {
   }
   ret1
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem

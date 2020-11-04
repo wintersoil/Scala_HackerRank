@@ -30,3 +30,5 @@ def summation(func:(List[Int],List[Int],Double)=>Double,upperLimit:Int,lowerLimi
   }
   return sum
 }
+
+// Link: https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem

@@ -4,3 +4,5 @@ def f(arr:List[Int]):Int ={
     lengthy = lengthy + 1
   return lengthy
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-list-length/problem

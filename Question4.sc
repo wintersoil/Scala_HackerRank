@@ -6,3 +6,5 @@ def f(num: Int, arr:List[Int]):List[Int] = {
   }
   p1
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-list-replication/problem

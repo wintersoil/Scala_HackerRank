@@ -7,3 +7,5 @@ def f(arr:List[Int]):Int =
   }
   return sum
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem

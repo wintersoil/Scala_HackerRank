@@ -4,3 +4,5 @@ object Solution extends App {
   var n = scala.io.StdIn.readInt
   f(n)
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem

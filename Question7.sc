@@ -9,3 +9,5 @@ def f(arr:List[Int]):List[Int] = {
   }
   return rev.toList
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-reverse-a-list/problem

@@ -9,3 +9,5 @@ object Solution extends App {
 
   println(f(readInt))
 }
+
+// Link: https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem

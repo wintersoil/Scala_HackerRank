@@ -18,3 +18,5 @@ object Solution {
         }
     }
 }
+
+// Link: https://www.hackerrank.com/challenges/string-o-permute/problem

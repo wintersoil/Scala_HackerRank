@@ -5,4 +5,5 @@ object Solution {
     println(scala.io.StdIn.readInt() + scala.io.StdIn.readInt())
   }
 }
-// By Ali
+
+// Link https://www.hackerrank.com/challenges/fp-solve-me-first/problem

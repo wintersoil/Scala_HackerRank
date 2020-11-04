@@ -24,3 +24,5 @@ object Solution {
         return area
     }
 }
+
+// Link: https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem
